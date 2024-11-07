@@ -1,0 +1,6 @@
+https://www.ivas.homes/robots.txt
+User-agent: *
+Allow: /
+Disallow: /staging/
+Disallow: /home-appliances/
+Sitemap: https://www.ivas.homes/sitemap.xml

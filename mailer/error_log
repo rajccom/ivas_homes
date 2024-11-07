@@ -1,0 +1,348 @@
+[17-May-2023 11:54:27 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 11:54:27 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 11:55:13 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[17-May-2023 11:55:13 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[17-May-2023 11:55:22 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 11:55:22 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[17-May-2023 12:40:42 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[17-May-2023 12:40:42 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 04:30:58 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 04:30:58 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 04:50:32 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 04:50:32 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/bath-fittings-mail.php on line 2
+[05-Jun-2023 05:54:46 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 05:54:46 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 05:59:25 UTC] PHP Warning:  require(./ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 05:59:25 UTC] PHP Fatal error:  require(): Failed opening required './ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 06:05:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:08:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:12:49 UTC] PHP Notice:  Undefined variable: ref_parts in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:12:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:16:28 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:30:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 06:40:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 13
+[05-Jun-2023 06:40:32 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 06:40:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 35
+[05-Jun-2023 06:43:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 13
+[05-Jun-2023 06:43:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 06:43:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 35
+[05-Jun-2023 06:47:20 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 06:49:51 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 07:01:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 26
+[05-Jun-2023 07:02:04 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/tiles-mail.php on line 2
+[05-Jun-2023 07:02:04 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/tiles-mail.php on line 2
+[05-Jun-2023 07:07:21 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:09:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:09:45 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:10:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:10:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:12:45 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:19:32 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:19:32 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:20:52 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:20:52 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 2
+[05-Jun-2023 07:21:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:21:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:22:49 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:23:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:24:11 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:25:03 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:29:50 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:31:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:34:53 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:42:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:42:09 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:44:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:46:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:47:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:47:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 07:47:19 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:27:22 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:30:28 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:33:05 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 10:34:25 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[05-Jun-2023 12:58:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[06-Jun-2023 05:30:47 UTC] PHP Warning:  require(ajax/src/PHPMailer.php): failed to open stream: No such file or directory in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[06-Jun-2023 05:30:47 UTC] PHP Fatal error:  require(): Failed opening required 'ajax/src/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/designer-hardware-mail.php on line 2
+[06-Jun-2023 10:48:30 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/staging.ivas.homes/mailer/modular-kitchen-mail.php on line 27
+[18-Aug-2023 11:43:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[18-Aug-2023 11:44:32 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[18-Aug-2023 11:45:17 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[18-Aug-2023 11:47:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[18-Aug-2023 12:23:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[18-Aug-2023 12:25:03 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[18-Aug-2023 12:31:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[18-Aug-2023 12:33:35 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[18-Aug-2023 12:35:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/bath-fittings-mail.php on line 20
+[18-Aug-2023 12:36:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[21-Aug-2023 05:29:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[21-Aug-2023 11:51:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[21-Aug-2023 14:30:18 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[22-Aug-2023 10:54:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[27-Aug-2023 16:41:22 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[31-Aug-2023 00:27:09 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[31-Aug-2023 00:29:22 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[02-Sep-2023 20:47:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[05-Sep-2023 07:20:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[10-Sep-2023 11:36:22 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[10-Sep-2023 15:28:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[12-Sep-2023 05:14:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[13-Sep-2023 02:47:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[14-Sep-2023 07:25:03 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[14-Sep-2023 13:04:42 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[19-Sep-2023 01:21:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[21-Sep-2023 15:03:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Sep-2023 01:25:05 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Sep-2023 08:48:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Sep-2023 19:20:21 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[27-Sep-2023 09:02:35 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[27-Sep-2023 12:14:29 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[28-Sep-2023 01:32:39 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[28-Sep-2023 13:02:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[28-Sep-2023 14:09:45 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[28-Sep-2023 18:36:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[30-Sep-2023 12:57:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[03-Oct-2023 16:52:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[04-Oct-2023 10:58:42 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[04-Oct-2023 12:58:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[04-Oct-2023 17:04:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[05-Oct-2023 03:59:41 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[05-Oct-2023 04:00:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[05-Oct-2023 04:00:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[08-Oct-2023 07:31:21 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[09-Oct-2023 10:43:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[10-Oct-2023 08:45:20 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[12-Oct-2023 14:06:19 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[12-Oct-2023 14:07:35 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[13-Oct-2023 15:45:44 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[15-Oct-2023 11:41:20 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[17-Oct-2023 04:57:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/bath-fittings-mail.php on line 20
+[17-Oct-2023 15:34:11 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[18-Oct-2023 03:18:20 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[19-Oct-2023 15:57:41 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[20-Oct-2023 06:54:20 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[20-Oct-2023 07:02:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[21-Oct-2023 09:56:48 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[21-Oct-2023 16:53:56 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[23-Oct-2023 12:16:26 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Oct-2023 07:46:53 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[25-Oct-2023 13:35:36 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[26-Oct-2023 05:12:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[26-Oct-2023 05:13:18 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[26-Oct-2023 05:30:54 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[26-Oct-2023 05:38:34 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[26-Oct-2023 05:44:31 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[26-Oct-2023 05:50:59 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[26-Oct-2023 06:00:07 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[26-Oct-2023 06:00:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[27-Oct-2023 12:52:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[27-Oct-2023 13:17:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[28-Oct-2023 01:58:39 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Oct-2023 02:20:14 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Oct-2023 02:22:29 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[30-Oct-2023 11:52:34 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[30-Oct-2023 16:17:39 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[31-Oct-2023 02:26:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[31-Oct-2023 02:27:08 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[31-Oct-2023 03:21:56 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[31-Oct-2023 17:31:29 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[02-Nov-2023 02:23:12 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[02-Nov-2023 07:50:12 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[02-Nov-2023 15:57:17 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[03-Nov-2023 02:55:00 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[03-Nov-2023 08:56:30 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[03-Nov-2023 12:43:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[03-Nov-2023 12:44:00 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[03-Nov-2023 15:13:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[04-Nov-2023 05:31:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[06-Nov-2023 02:58:36 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[07-Nov-2023 04:55:44 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[07-Nov-2023 09:20:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[08-Nov-2023 12:37:59 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[08-Nov-2023 17:54:44 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[09-Nov-2023 14:40:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[09-Nov-2023 14:41:39 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[10-Nov-2023 04:25:26 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[10-Nov-2023 09:27:44 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[11-Nov-2023 02:42:36 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[11-Nov-2023 13:01:09 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[11-Nov-2023 16:53:56 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[14-Nov-2023 14:43:58 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[15-Nov-2023 06:55:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[16-Nov-2023 00:56:02 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[16-Nov-2023 01:01:38 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[17-Nov-2023 04:20:51 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/bath-fittings-mail.php on line 20
+[17-Nov-2023 06:45:09 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[17-Nov-2023 08:10:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[17-Nov-2023 10:41:49 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[17-Nov-2023 11:24:32 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[17-Nov-2023 12:52:05 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[17-Nov-2023 12:54:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[18-Nov-2023 05:10:22 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[19-Nov-2023 05:29:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[19-Nov-2023 13:04:06 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[19-Nov-2023 13:04:31 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[20-Nov-2023 07:42:59 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[20-Nov-2023 07:43:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[21-Nov-2023 06:36:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[21-Nov-2023 13:24:06 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[22-Nov-2023 01:32:41 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[22-Nov-2023 07:24:38 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[22-Nov-2023 08:04:56 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[22-Nov-2023 13:27:18 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[23-Nov-2023 04:20:37 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[23-Nov-2023 12:23:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Nov-2023 07:11:19 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Nov-2023 07:19:12 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[24-Nov-2023 07:20:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[24-Nov-2023 07:21:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[24-Nov-2023 14:17:38 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[25-Nov-2023 03:24:32 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[25-Nov-2023 22:22:19 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[26-Nov-2023 03:38:16 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[26-Nov-2023 13:45:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[26-Nov-2023 15:12:14 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[26-Nov-2023 15:12:46 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[27-Nov-2023 03:19:56 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[27-Nov-2023 06:16:34 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 06:49:29 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 06:49:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 10:43:00 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 10:44:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 10:45:13 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[29-Nov-2023 10:47:15 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[29-Nov-2023 10:47:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[29-Nov-2023 10:48:50 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:03:54 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:04:50 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:05:27 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[29-Nov-2023 11:09:08 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/bath-fittings-mail.php on line 20
+[29-Nov-2023 11:12:02 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[29-Nov-2023 11:19:29 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[29-Nov-2023 11:21:28 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[29-Nov-2023 11:41:54 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:48:56 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:50:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:52:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:52:09 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[29-Nov-2023 11:52:24 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:52:30 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:52:55 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:53:00 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[29-Nov-2023 11:54:12 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 11:54:36 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 18
+[29-Nov-2023 11:54:52 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/bath-fittings-mail.php on line 20
+[29-Nov-2023 11:55:03 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 11:55:39 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:55:46 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:55:54 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 15
+[29-Nov-2023 11:57:03 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[29-Nov-2023 11:59:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:23:54 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:36:33 UTC] Composer autoloader not found. Execute 'composer install' in the project folder first.
+[29-Nov-2023 12:36:33 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:36:33 UTC] PHP Fatal error:  Uncaught Error: Class 'SendGrid\Mail\Mail' not found in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 31
+[29-Nov-2023 12:47:49 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 20
+[29-Nov-2023 12:47:49 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 34
+[29-Nov-2023 12:49:10 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 20
+[29-Nov-2023 12:49:10 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 34
+[29-Nov-2023 12:49:10 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:49:36 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 20
+[29-Nov-2023 12:49:36 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php on line 34
+[29-Nov-2023 12:49:36 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/modular-kitchen-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:49:48 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 19
+[29-Nov-2023 12:49:48 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php on line 33
+[29-Nov-2023 12:49:48 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/designer-hardware-mail.php(33): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:50:04 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 20
+[29-Nov-2023 12:50:04 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php on line 34
+[29-Nov-2023 12:50:04 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sanitaryware-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:50:31 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:50:31 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 34
+[29-Nov-2023 12:50:31 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:50:38 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:50:38 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 34
+[29-Nov-2023 12:50:38 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:50:43 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:50:43 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 34
+[29-Nov-2023 12:50:43 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:50:47 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:50:47 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 34
+[29-Nov-2023 12:50:47 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61
+[29-Nov-2023 12:50:53 UTC] PHP Notice:  Undefined index: query in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 20
+[29-Nov-2023 12:50:53 UTC] PHP Notice:  Undefined variable: name in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php on line 34
+[29-Nov-2023 12:50:53 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got:  in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php:61
+Stack trace:
+#0 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('', 'emailAddress')
+#1 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('')
+#2 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('', NULL, NULL)
+#3 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '', NULL, NULL, NULL, NULL)
+#4 /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/tiles-mail.php(34): SendGrid\Mail\Mail->addTo('', NULL)
+#5 {main}
+  thrown in /home/qyzxfb0xcd1v/public_html/ivas.homes/mailer/sendgrid-php/lib/helper/Assert.php on line 61

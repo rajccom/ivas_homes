@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|resources|robots\.txt)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L,QSA] 
+
+Redirect 301 /appliances/blogs/detail/know-the-top-six-features-to-look-for-in-a-kitchen-chimney/ https://www.ivas.homes/blog/know-the-top-six-features-to-look-for-in-a-kitchen-chimney/
+Redirect 301 /appliances/blogs/detail/built-in-hobs-vs-gas-cooktops-find-the-perfect-fit-for-your-kitchen/ https://www.ivas.homes/blog/built-in-hobs-vs-gas-cooktops-find-the-perfect-fit-for-your-kitchen/
+
